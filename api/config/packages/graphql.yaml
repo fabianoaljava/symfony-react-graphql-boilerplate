@@ -1,0 +1,10 @@
+overblog_graphql:
+    definitions:
+        schema:
+            query: App\GraphQL\Query\QueryType
+        mappings:
+            auto_discover:
+                root_dir: '%kernel.project_dir%/src/GraphQL'
+                dirs: ['Types']
+    security:
+        introspection: true

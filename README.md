@@ -173,32 +173,32 @@ Follow these instructions to set up and run the project locally.
 
 ### Project Structure
 
-    ```bash
-    symfony-react-graphql-boilerplate/
-    │
-    ├── backend/
-    │ ├── config/
-    │ ├── public/
-    │ ├── src/
-    │ │ ├── Controller/
-    │ │ └── GraphQL/
-    │ ├── templates/
-    │ ├── translations/
-    │ ├── var/
-    │ └── vendor/
-    │
-    └── frontend/
-    ├── public/
-    ├── src/
-    │ ├── apollo-client.ts
-    │ ├── App.tsx
-    │ ├── components/
-    │ │ └── Hello.tsx
-    │ └── index.tsx
-    ├── package.json
-    ├── tsconfig.json
-    └── node_modules/
-    ```
+  ```
+  symfony-react-graphql-boilerplate/
+  │
+  ├── backend/
+  │ ├── config/
+  │ ├── public/
+  │ ├── src/
+  │ │ ├── Controller/
+  │ │ └── GraphQL/
+  │ ├── templates/
+  │ ├── translations/
+  │ ├── var/
+  │ └── vendor/
+  │
+  └── frontend/
+  ├── public/
+  ├── src/
+  │ ├── apollo-client.ts
+  │ ├── App.tsx
+  │ ├── components/
+  │ │ └── Hello.tsx
+  │ └── index.tsx
+  ├── package.json
+  ├── tsconfig.json
+  └── node_modules/
+  ```
 
 
 ### Contributing
