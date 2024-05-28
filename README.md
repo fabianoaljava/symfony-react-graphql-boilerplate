@@ -7,6 +7,7 @@ This project is a boilerplate for building a full-stack application using Symfon
 - **api**: Contains the Symfony backend.
 - **admin**: Contains the React frontend.
 
+
 ## Features
 
 - Symfony backend with API endpoints
