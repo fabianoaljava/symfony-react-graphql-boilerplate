@@ -28,9 +28,9 @@ This project is a boilerplate for building a full-stack application using Symfon
 
 1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+  ```bash
+  git clone https://github.com/your-username/your-repository.git
+  cd your-repository
   ```   
 
 2. **Backend Setup (API):**
