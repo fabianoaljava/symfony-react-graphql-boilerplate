@@ -173,6 +173,7 @@ Follow these instructions to set up and run the project locally.
 
 ### Project Structure
 
+    ```bash
 symfony-react-graphql-boilerplate/
 │
 ├── backend/
@@ -197,7 +198,7 @@ symfony-react-graphql-boilerplate/
 ├── package.json
 ├── tsconfig.json
 └── node_modules/
-
+    ```
 
 
 ### Contributing
